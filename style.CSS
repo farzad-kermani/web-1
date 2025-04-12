@@ -1,0 +1,52 @@
+
+#master{
+background-image: url('body.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;  
+background-size: cover;
+background-attachment: fixed;
+}
+
+#bio{background-color: aqua;font-family: 'Courier New', Courier, monospace;}
+
+
+#h1{color: rgb(212, 0, 255);text-shadow: 3px 5px 1px #2ecc71;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: dashed;
+    padding: 10px;
+    border-width: 5px;
+    border-color: gold;
+    background-color: silver;
+}
+
+#d1{color: brown;font-family: 'Courier New', Courier, monospace;}
+#d2{color: blue;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+#d3{color: rgb(42, 99, 165);font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;}
+#d4{color: rgb(126, 42, 165);font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+#d5{color: rgb(165, 163, 42);font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+#d6{color: rgb(42, 165, 149);font-family: 'Times New Roman', Times, serif;}
+#d7{color: rgb(42, 75, 165);font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+#d8{color: rgb(71, 165, 42);font-family: Arial, Helvetica, sans-serif;}
+#d9{color: rgba(119, 117, 16, 0.849);font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+#d10{color: rgb(42, 165, 149);font-family: Georgia, 'Times New Roman', Times, serif;}
+#d11{color: rgb(165, 42, 128);font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+#d12{color: rgb(106, 42, 165);font-family: Verdana, Geneva, Tahoma, sans-serif;}
+#d13{color: rgb(165, 61, 42);font-family: cursive;}
+#d14{color: black;font-family: fantasy;}
+#d15{color:red;font-family: monospace;}
+
+button {
+    background:#ce62a1;
+    padding:12px 35px;
+    font: size 50px;px;
+    color:#000000;
+    margin-top:2px;
+    cursor:pointer; /* وقتی ماوس روی دکمه قرار می گیرد به شکل دست در می آید */
+    border-radius:10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.div a:hover {
+    color: #3f1dd8;
+    text-decoration: none;
+
+}
