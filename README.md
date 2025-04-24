@@ -1,4 +1,7 @@
 این یک نمونه آزمایشی از طراحی یک وب سایت ساده است که با HTMLوCSS نوشته شده است.
+لینک پروژ: https://farzad-kermani.github.io/web-1/
+
+
 
 
 ![pic1](https://github.com/user-attachments/assets/ee3e70aa-e49c-4b00-9038-4e791f0e4439)
