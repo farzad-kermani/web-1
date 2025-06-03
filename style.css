@@ -19,15 +19,21 @@ nav img {width:30px; height:30px; vertical-align:middle; margin-left:5px;}
 #d1{color: brown;font-family: 'Courier New', Courier, monospace;}
 
 table{
+    width: 500px;
     background-color: aqua ;
     font-size: xx-large;
+    border-spacing: 5px 10px;
+
+
 }
 
 td{
     padding: 20px;
+    border: 2px solid darkblue;
+    
 }
 a{
     text-decoration: none;
 }
 
-
+img{width:500px; height:400px;}
